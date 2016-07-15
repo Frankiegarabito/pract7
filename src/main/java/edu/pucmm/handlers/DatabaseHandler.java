@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by MEUrena on 5/26/16.
+ * Created by Fgarabito on 5/26/16.
  * All rights reserved.
  */
 public class DatabaseHandler {
